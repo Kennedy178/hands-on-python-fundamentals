@@ -1,5 +1,5 @@
 
-# Hands-On Python Fundamentals 🐍
+# Hands-On Python Fundamentals 
 
 A curated collection of hands-on challenges and mini-projects designed to build and reinforce your understanding of core **Python programming concepts** — from data structures to logic and real-world simulation tasks.
 
@@ -13,7 +13,7 @@ Each challenge includes:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hands-on-python-fundamentals.git
+   git clone https://github.com/Kennedy178/hands-on-python-fundamentals.git
    ```
 
 2. Navigate into the project folder:
