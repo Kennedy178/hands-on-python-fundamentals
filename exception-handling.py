@@ -44,16 +44,22 @@ except ValueError:
 
 def add_numbers(a, b):
     try: 
-        a= int(a)
+        a = int(a)
         b = int(b)
         c = a + b
         return c
     except ValueError:
         print("Invalid input. Please enter only numbers.")
 
+# Get input
 a = input("Enter the first number: ")
 b = input("Enter the second number: ")
-add_numbers(a, b)
+
+# Call function and show result if valid
+result = add_numbers(a, b)
+if result is not None:
+    print("The sum is:", result)
+
 
 
 
