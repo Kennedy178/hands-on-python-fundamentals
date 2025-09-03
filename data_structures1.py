@@ -5,7 +5,7 @@ customer_ids = [101, 102, 103, 104, 105, 106, 103, 102]
 # Customer Names
 customer_names = ['Alice', 'Bob', 'Charlie', 'Diana', 'Eve', 'Frank', 'Charlie', 'Bob']
 
-# Customer Locations:
+# Customer Location:
 customer_locations = ('New York', 'California', 'Texas', 'Florida', 'New York', 'Texas', 'Florida', 'California')
 
 # Purchases: dictionary of  ID: total amount spent
