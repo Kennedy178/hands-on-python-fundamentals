@@ -28,7 +28,7 @@ def get_item_at_index(lst, index):
     finally:
         print("Operation completed.")
 
-# Sample list
+# Sample list--
 lst = ['A', 'B', 'C', 'D', 'E']
 
 # Get user input
