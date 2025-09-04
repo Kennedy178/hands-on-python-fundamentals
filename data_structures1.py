@@ -8,7 +8,7 @@ customer_names = ['Alice', 'Bob', 'Charlie', 'Diana', 'Eve', 'Frank', 'Charlie',
 # Customer Location:
 customer_locations = ('New York', 'California', 'Texas', 'Florida', 'New York', 'Texas', 'Florida', 'California')
 
-# Purchases: dictionary of  ID: total amount spent:
+# Purchases: dictionary of  ID: total amount spent
 purchases = {
     101: 250.50,
     102: 100.00,
